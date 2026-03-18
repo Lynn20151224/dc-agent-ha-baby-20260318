@@ -1,0 +1,19 @@
+name = "dc-bot-test20260306"
+main = "index.js"
+compatibility_date = "2026-03-07"
+
+
+[vars]
+DISCORD_PUBLIC_KEY = "1e798cb4df8a6d6f42735a938e5b46bbf2a3d2a1f88874b947b447cb3de12511"
+IS_DEV = "false" # 部署時設為 false，本地測試時改成 true
+
+[[kv_namespaces]]
+binding = "LIMITS"
+id = "632cc5cfaa874dcea23244fd53c267b9"
+
+[[kv_namespaces]]
+binding = "SETTINGS"
+id = "632cc5cfaa874dcea23244fd53c267b9"
+
+[site]
+bucket = "./public"
