@@ -1,10 +1,10 @@
-name = "dc-bot-test20260306"
+name = "dc-agent-ha-baby-20260318"
 main = "index.js"
-compatibility_date = "2026-03-07"
+compatibility_date = "2026-03-18"
 
 
 [vars]
-DISCORD_PUBLIC_KEY = "1e798cb4df8a6d6f42735a938e5b46bbf2a3d2a1f88874b947b447cb3de12511"
+DISCORD_PUBLIC_KEY = "53d7b353c70d556ea3539527e8a2efbebd31d0f971fa12f48cfb0562717fcfcd"
 IS_DEV = "false" # 部署時設為 false，本地測試時改成 true
 
 [[kv_namespaces]]
