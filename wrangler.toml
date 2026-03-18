@@ -15,5 +15,4 @@ id = "632cc5cfaa874dcea23244fd53c267b9"
 binding = "SETTINGS"
 id = "632cc5cfaa874dcea23244fd53c267b9"
 
-[site]
-bucket = "./public"
+
